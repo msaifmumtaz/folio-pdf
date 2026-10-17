@@ -1,0 +1,10 @@
+build/
+build-device/
+DerivedData/
+.DS_Store
+xcuserdata/
+*.xcuserstate
+*.xcresult
+*.ipa
+*.dSYM.zip
+.swiftpm/
