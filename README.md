@@ -2,6 +2,8 @@
 
 A native, offline PDF reader for iPhone. Built with SwiftUI, PDFKit, and SwiftData, with no third-party dependencies and no backend.
 
+![Folio PDF](Documentation/folio-pdf.png)
+
 ## Features
 
 - **Library** with folders, grid and list layouts, search, and a Continue reading card
